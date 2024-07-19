@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" alt="Welcome Jongmin Github" />
+  <h1 style="font-family: Arial, sans-serif; font-size: 36px; color: #4CAF50; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
+    Welcome to <span style="color: #FF5722;">Jongmin's</span> GitHub
+  </h1>
 </div>
 
 # 안녕하세요, 저는 강종민입니다 🤗
