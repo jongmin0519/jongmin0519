@@ -1,8 +1,9 @@
-<div align="center">
-  <h1 style="font-family: Arial, sans-serif; font-size: 36px; color: #4CAF50; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
+<div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <h1 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 40px; color: #4CAF50; font-weight: bolder; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3); margin: 0;">
     Welcome to <span style="color: #FF5722;">Jongmin's</span> GitHub
   </h1>
 </div>
+
 
 # 안녕하세요, 저는 강종민입니다 🤗
 
