@@ -14,6 +14,7 @@
 - **하드웨어**: Cisco 라우터 & 스위치
 - **네트워크 보안**: 방화벽, VPN, IDS/IPS
 - **스크립팅 & 자동화**: Python
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
 
 ## 🚀 프로젝트
 
