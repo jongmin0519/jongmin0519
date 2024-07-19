@@ -12,14 +12,6 @@
   </h1>
 </div>
 
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-</style>
-
 
 # 안녕하세요, 저는 강종민입니다 🤗
 
