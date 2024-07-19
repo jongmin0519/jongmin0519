@@ -1,8 +1,24 @@
-<div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <h1 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 40px; color: #4CAF50; font-weight: bolder; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3); margin: 0;">
-    Welcome to <span style="color: #FF5722;">Jongmin's</span> GitHub
+<div align="center" style="background-color: #282c34; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <h1 style="
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px; 
+    color: #61dafb; 
+    font-weight: bold; 
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    animation: pulse 1.5s infinite;
+    margin: 0;
+  ">
+    Welcome to <span style="color: #ff79c6;">Jongmin's</span> GitHub
   </h1>
 </div>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+</style>
 
 
 # 안녕하세요, 저는 강종민입니다 🤗
@@ -14,7 +30,7 @@
 - **하드웨어**: Cisco 라우터 & 스위치
 - **네트워크 보안**: 방화벽, VPN, IDS/IPS
 - **스크립팅 & 자동화**: Python
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
+
 
 ## 🚀 프로젝트
 
