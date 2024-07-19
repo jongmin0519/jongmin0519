@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" alt="Welcome Jongmin Github Banner" />
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" alt="Welcome Jongmin Github" />
 </div>
 
 # 안녕하세요, 저는 강종민입니다 🤗
