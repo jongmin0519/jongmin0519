@@ -16,7 +16,8 @@
 
 ## 🚀 프로젝트
 -**https://github.com/jongmin0519/AI-Startup-Navigator-OpenAI-.git**
--**https://github.com/jongmin0519/Word-Search-Puzzle-Game.git**
+
+**https://github.com/jongmin0519/Word-Search-Puzzle-Game.git**
 
 
 ## 📬 연락처
