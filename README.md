@@ -15,6 +15,8 @@
 - **스크립팅 & 자동화**: Python 
 
 ## 🚀 프로젝트
+**https://github.com/jongmin0519/AI-Startup-Navigator-OpenAI-.git**
+
 
 ## 📬 연락처
 - **이메일**: muneto@naver.com 📧
