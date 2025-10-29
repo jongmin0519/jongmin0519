@@ -37,14 +37,12 @@
 - **Python** – Flask 기반 백엔드 개발 및 데이터 처리  
 - **OpenAI API** – AI 챗봇, 텍스트 분석 프로젝트 구현  
 - **MySQL** – 데이터베이스 설계 및 쿼리 최적화  
-- **Pandas / TensorFlow(기초)** – 간단한 데이터 분석 및 모델 활용  
 
 ### 🧰 개발 도구 & 협업
-- **VSCode / Android Studio / Postman / Figma**  
+- **VSCode / Android Studio**  
 - **Git / GitHub** – 버전 관리 및 협업 환경 구축  
 - **Notion / Google Workspace** – 문서 관리 및 일정 관리  
 
- 
 ## 🚀 프로젝트
 **https://github.com/jongmin0519/AI-Startup-Navigator-OpenAI-.git**
 
