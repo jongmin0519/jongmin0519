@@ -82,17 +82,6 @@ Python · Flask · OpenAI API
 
 ---
 
-## 📦 Order Management System
-
-OutSystems를 활용하여 CRUD와 Entity 관계를 학습하기 위해 개발한 주문 관리 시스템입니다.
-
-**기술 스택**
-
-OutSystems Reactive Web · Entity Relationship · Dashboard
-
-🔗 https://github.com/jongmin0519/OrderApp
-
----
 
 # 💻 기술 스택
 
