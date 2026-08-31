@@ -17,28 +17,30 @@
 
 # 🚀 대표 프로젝트
 
-## 🤖 AI Career Mentor
+## 🏛️ 민원 처리 지원 AI 플랫폼 (ITSM)
 
-OutSystems Developer Cloud(ODC)를 활용하여 개발한 **AI 기반 커리어 관리 플랫폼**입니다.
+OutSystems Developer Cloud(ODC)를 활용하여 개발한 **Agentic AI 기반 지자체 민원 처리 자동화 플랫폼**입니다.
+민원 접수부터 AI 분류·부서 배정·해결방안 추천·부서 간 협업까지 전 과정을 하나의 흐름으로 연결했습니다.
 
 ### 주요 기능
+- AI 민원 자동 분류 및 담당부서 추천
+- 악성 민원 판별 및 분리 처리
+- 중요도 등급·SLA 자동 산정
+- 과거 사례 기반(RAG) 답변 초안 생성
+- 부서 간 협업 워룸(War Room)
+- SLA 마감·지연 알림
+- 관리자 대시보드 및 통계
 
-- AI Career Dashboard
-- Career Goal 관리
-- User Skill 관리
-- Learning Mission 관리
-- Resume 관리
-- Interview 관리
-- Career Readiness 분석
-- Job Matching
+### 담당 역할 — 데이터 담당
+- **DB 설계 총괄** — Complaint 중심 엔티티 구조 설계, Static Entity 기반 기준정보 분리
+- **민트(Mint) 에이전트 주도 개발** — 분류·채점·악성 판별 로직 및 프롬프트 설계
+- **아키텍처 제안** — "AI는 판단, 로직은 연산" 분리 원칙을 제안해 팀 표준으로 채택
+- UI 레이아웃 및 스타일 개선
 
 **기술 스택**
+OutSystems ODC · Reactive Web · Google Gemini · RAG · Entity Modeling · Static Entity · Server Action
 
-OutSystems ODC · Reactive Web · Entity Modeling · Aggregates · Role-Based Authorization
-
-🔗 https://github.com/jongmin0519/AI-Career-Mentor
-
----
+🔗 https://github.com/jongmin0519/minwon-agents
 
 ## 🏥 Mind Companion AI
 
